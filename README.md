@@ -18,8 +18,8 @@ notebooks/   Interactive Jupyter Notebooks with runnable code and experiments co
 
 | Slides | Notebook | Topic |
 |---|---|---|
-| `01_Course Introduction.pdf` | — | Course Introduction |
-| `02_Frontiers in deep learning_2_Optimization.pdf` | `02_optimization_tutorial.ipynb` | Deep Learning Optimization |
+| [01_Course Introduction.pdf](slides/01_Course%20Introduction.pdf) | — | Course Introduction |
+| [02_Frontiers in deep learning_2_Optimization.pdf](slides/02_Frontiers%20in%20deep%20learning_2_Optimization.pdf) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
 
 ## Requirements
 
