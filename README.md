@@ -61,3 +61,23 @@ Wait until the installation finishes (this may take a few minutes).
 5. Run all cells from top to bottom in order.
 
 > **Tip:** You do not need to understand the code to follow along. Focus on the Markdown text and the output figures — they explain what is happening in plain language.
+
+## Reference Resources
+
+The following videos and documentation pages are helpful if you get stuck during setup or want a visual walkthrough.
+
+### Video Tutorials
+
+| Video | What It Covers |
+|---|---|
+| [VS Code + Jupyter Notebook 安装与使用入门](https://www.youtube.com/watch?v=niWD8kxgpH0) | VS Code environment setup and running Jupyter notebooks step by step |
+| [Getting Started with Jupyter Notebooks in VS Code](https://www.youtube.com/watch?v=suAkMeWJ1yE) | Official Microsoft walkthrough: installing extensions, selecting kernels, running cells |
+| [Anaconda Installation Guide (Windows & macOS)](https://www.youtube.com/watch?v=MUZtVEDKXsk) | How to install Anaconda and verify your Python environment |
+
+### Official Documentation
+
+| Resource | Link |
+|---|---|
+| VS Code — Jupyter Notebooks | [https://code.visualstudio.com/docs/datascience/jupyter-notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) |
+| Anaconda Getting Started | [https://docs.anaconda.com/anaconda/getting-started/](https://docs.anaconda.com/anaconda/getting-started/) |
+| PyTorch Installation Guide | [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/) |
