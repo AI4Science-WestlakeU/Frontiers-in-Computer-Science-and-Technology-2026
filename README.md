@@ -61,9 +61,3 @@ Wait until the installation finishes (this may take a few minutes).
 5. Run all cells from top to bottom in order.
 
 > **Tip:** You do not need to understand the code to follow along. Focus on the Markdown text and the output figures — they explain what is happening in plain language.
-
-## Requirements
-
-```bash
-pip install torch numpy matplotlib scikit-learn
-```
