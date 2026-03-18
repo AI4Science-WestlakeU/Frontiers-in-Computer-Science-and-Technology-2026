@@ -21,7 +21,7 @@ notebooks/   Interactive Jupyter Notebooks with runnable code and experiments co
 | [01_Course Introduction.pdf](slides/01_Course%20Introduction.pdf) | — | Course Introduction |
 | [02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf](slides/02_Frontiers%20in%20deep%20learning_1_Maximum%20likelihood%20and%20Information-based%20objectives.pdf) | — | Maximum Likelihood & Information-based Objectives |
 | [02_Frontiers in deep learning_2_Optimization.pdf](slides/02_Frontiers%20in%20deep%20learning_2_Optimization.pdf) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
-| [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb), [03b_flow_matching_image_generation.ipynb](notebooks/03b_flow_matching_image_generation.ipynb) | Generative Modeling |
+| [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
 
 ## Lecture 03 Supplementary Resources
 
