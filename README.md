@@ -27,8 +27,8 @@ notebooks/   Interactive Jupyter Notebooks with runnable code and experiments co
 
 If you want to go beyond the 2D toy examples in Lecture 03 and see how Flow Matching is used for image generation, the following external resources are especially helpful.
 
-- [MNIST image example from conditional-flow-matching / TorchCFM](https://github.com/atong01/conditional-flow-matching/blob/main/examples/images/mnist_example.ipynb): a runnable MNIST notebook that shows an end-to-end image-generation workflow with Conditional Flow Matching. This is useful for connecting the lecture ideas to a concrete image example.
-- [Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264): a self-contained guide to the mathematical foundations, design choices, and extensions of Flow Matching. It is a good reference if you want a more systematic understanding after reading the Lecture 03 slides and notebook.
+- [MNIST image example from conditional-flow-matching / TorchCFM](https://github.com/atong01/conditional-flow-matching/blob/main/examples/images/mnist_example.ipynb): a runnable MNIST notebook that shows an end-to-end image-generation workflow with Conditional Flow Matching. 
+- [Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264): a self-contained guide to the mathematical foundations, design choices, and extensions of Flow Matching. 
 - [Official Flow Matching codebase](https://github.com/facebookresearch/flow_matching): the code companion to the guide above. It provides a PyTorch library and example implementations for image and text settings, which makes it a practical starting point for understanding how to use Flow Matching in real experiments.
 
 ## Getting Started (No Coding Experience Required)
