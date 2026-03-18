@@ -21,7 +21,15 @@ notebooks/   Interactive Jupyter Notebooks with runnable code and experiments co
 | [01_Course Introduction.pdf](slides/01_Course%20Introduction.pdf) | — | Course Introduction |
 | [02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf](slides/02_Frontiers%20in%20deep%20learning_1_Maximum%20likelihood%20and%20Information-based%20objectives.pdf) | — | Maximum Likelihood & Information-based Objectives |
 | [02_Frontiers in deep learning_2_Optimization.pdf](slides/02_Frontiers%20in%20deep%20learning_2_Optimization.pdf) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
-| [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
+| [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb), [03b_flow_matching_image_generation.ipynb](notebooks/03b_flow_matching_image_generation.ipynb) | Generative Modeling |
+
+## Lecture 03 Supplementary Resources
+
+If you want to go beyond the 2D toy examples in Lecture 03 and see how Flow Matching is used for image generation, the following external resources are especially helpful.
+
+- [MNIST image example from conditional-flow-matching / TorchCFM](https://github.com/atong01/conditional-flow-matching/blob/main/examples/images/mnist_example.ipynb): a runnable MNIST notebook that shows an end-to-end image-generation workflow with Conditional Flow Matching. This is useful for connecting the lecture ideas to a concrete image example.
+- [Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264): a self-contained guide to the mathematical foundations, design choices, and extensions of Flow Matching. It is a good reference if you want a more systematic understanding after reading the Lecture 03 slides and notebook.
+- [Official Flow Matching codebase](https://github.com/facebookresearch/flow_matching): the code companion to the guide above. It provides a PyTorch library and example implementations for image and text settings, which makes it a practical starting point for understanding how to use Flow Matching in real experiments.
 
 ## Getting Started (No Coding Experience Required)
 
