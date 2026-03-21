@@ -1,0 +1,4 @@
+interface:
+  display_name: "作者机构图谱"
+  short_description: "单篇分析和多篇汇总的作者、实验室、机构图谱"
+  default_prompt: "分析这篇论文或当前已有论文的作者、机构，以及同方向持续在做这件事的人和组。"

@@ -1,0 +1,88 @@
+{
+  "paths": {
+    "obsidian_vault": "~/ObsidianVault",
+    "paper_notes_folder": "论文笔记",
+    "daily_papers_folder": "DailyPapers",
+    "concepts_folder": "_概念",
+    "guided_reading_folder": "共读精读",
+    "zotero_db": "~/Zotero/zotero.sqlite",
+    "zotero_storage": "~/Zotero/storage"
+  },
+  "daily_papers": {
+    "keywords": [
+      "trajectory inference",
+      "single-cell",
+      "single cell",
+      "flow matching",
+      "neural ode",
+      "schrödinger bridge",
+      "schrodinger bridge",
+      "energy-based model",
+      "score matching",
+      "action matching",
+      "potential energy landscape",
+      "cell reprogramming",
+      "cell development"
+    ],
+    "negative_keywords": [
+      "large language model",
+      "llm",
+      "embodied ai",
+      "robot",
+      "manipulation",
+      "autonomous driving",
+      "nlp",
+      "natural language processing",
+      "prompt engineering",
+      "text-to-image",
+      "audio generation",
+      "coding agent",
+      "code generation",
+      "weather forecast",
+      "trading",
+      "financial",
+      "software engineering",
+      "object detection",
+      "image segmentation"
+    ],
+    "domain_boost_keywords": [
+      "scrna-seq",
+      "transcriptomics",
+      "dynamic system",
+      "optimal transport",
+      "perturbation",
+      "b-spline",
+      "time-varying",
+      "distributional",
+      "moment transfer"
+    ],
+    "arxiv_categories": [
+      "q-bio.QM",
+      "q-bio.CB",
+      "cs.LG",
+      "stat.ML",
+      "cond-mat.stat-mech"
+    ],
+    "pubmed_journals": [
+      "Cell",
+      "Cell Systems",
+      "Cell Genomics",
+      "Cell Reports",
+      "Developmental Cell",
+      "Nature",
+      "Nature Biotechnology",
+      "Nature Methods",
+      "Nature Genetics",
+      "Nature Communications",
+      "Science",
+      "Science Advances"
+    ],
+    "min_score": 2,
+    "top_n": 30
+  },
+  "automation": {
+    "auto_refresh_indexes": true,
+    "git_commit": false,
+    "git_push": false
+  }
+}

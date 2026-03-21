@@ -1,0 +1,4 @@
+interface:
+  display_name: "共读精读"
+  short_description: "分次读书 / 读论文，带笔记纠错、小测和知识沉淀"
+  default_prompt: "和我一起分次精读这本书或这篇论文，维护学习地图，检查我的笔记，并在合适时回填概念库。"

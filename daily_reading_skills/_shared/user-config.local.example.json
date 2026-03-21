@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "obsidian_vault": "/path/to/your/ObsidianVault",
+    "paper_notes_folder": "论文笔记",
+    "daily_papers_folder": "DailyPapers",
+    "concepts_folder": "_概念",
+    "guided_reading_folder": "共读精读",
+    "zotero_db": "~/Zotero/zotero.sqlite",
+    "zotero_storage": "~/Zotero/storage"
+  },
+  "automation": {
+    "auto_refresh_indexes": true,
+    "git_commit": false,
+    "git_push": false
+  }
+}

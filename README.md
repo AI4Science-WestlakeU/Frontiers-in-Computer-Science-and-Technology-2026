@@ -4,9 +4,10 @@ Course materials for *Frontiers in Computer Science and Technology* (2026).
 
 ## Repository Structure
 
-```
-slides/      Lecture slides (PDF) covering theory, key concepts, and formulas for each class
-notebooks/   Interactive Jupyter Notebooks with runnable code and experiments corresponding to each lecture
+```text
+slides/               Lecture slides (PDF) covering theory, key concepts, and formulas for each class
+notebooks/            Interactive Jupyter Notebooks with runnable code and experiments corresponding to each lecture
+daily_reading_skills/ Codex skills for paper discovery, reading, author/institution mapping, and guided study
 ```
 
 ## How to Use
