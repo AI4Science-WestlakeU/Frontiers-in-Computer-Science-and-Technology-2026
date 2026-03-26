@@ -17,12 +17,13 @@ daily_reading_skills/ Codex skills for paper discovery, reading, author/institut
 
 ## Contents
 
-| Slides | Notebook | Topic |
+| Slides | Notebook or Code | Topic |
 |---|---|---|
 | [01_Course Introduction.pdf](slides/01_Course%20Introduction.pdf) | — | Course Introduction |
 | [02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf](slides/02_Frontiers%20in%20deep%20learning_1_Maximum%20likelihood%20and%20Information-based%20objectives.pdf) | — | Maximum Likelihood & Information-based Objectives |
 | [02_Frontiers in deep learning_2_Optimization.pdf](slides/02_Frontiers%20in%20deep%20learning_2_Optimization.pdf) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
 | [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
+| [04-Multi-agent AI Scientist and AI Engineers.pdf](slides/04-Multi-agent%20AI%20Scientist%20and%20AI%20Engineers.pdf), [04-量子力学AI辅助自学分析.pdf](slides/04-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6AI%E8%BE%85%E5%8A%A9%E8%87%AA%E5%AD%A6%E5%88%86%E6%9E%90.pdf), [04-skills.pdf](slides/04-skills.pdf) | [daily_reading_skills](daily_reading_skills) | Multi-agent AI Scientist and AI Engineering |
 
 ## Lecture 03 Supplementary Resources
 
