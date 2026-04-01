@@ -94,3 +94,7 @@ The following videos and documentation pages are helpful if you get stuck during
 | VS Code — Jupyter Notebooks | [https://code.visualstudio.com/docs/datascience/jupyter-notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) |
 | Anaconda Getting Started | [https://docs.anaconda.com/anaconda/getting-started/](https://docs.anaconda.com/anaconda/getting-started/) |
 | PyTorch Installation Guide | [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/) |
+
+## License
+
+This repository is released under the [MIT License](LICENSE).
