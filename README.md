@@ -26,8 +26,8 @@ daily_reading_skills/ Codex skills for paper discovery, reading, author/institut
 | [04-Multi-agent AI Scientist and AI Engineers.pdf](slides/04-Multi-agent%20AI%20Scientist%20and%20AI%20Engineers.pdf), [04-量子力学AI辅助自学分析.pdf](slides/04-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6AI%E8%BE%85%E5%8A%A9%E8%87%AA%E5%AD%A6%E5%88%86%E6%9E%90.pdf), [04-skills.pdf](slides/04-skills.pdf) | [daily_reading_skills](daily_reading_skills) | Multi-agent AI Scientist and AI Engineering |
 | [05_Frontiers in Graph neural networks.pdf](slides/05_Frontiers%20in%20Graph%20neural%20networks.pdf) | [05_graph_neural_networks_tutorial.ipynb](notebooks/05_graph_neural_networks_tutorial.ipynb) | Graph Neural Networks |
 | [06_Frontiers in foundation.pdf](slides/06_Frontiers%20in%20foundation.pdf) | [06_foundation_model.ipynb](notebooks/06_foundation_model.ipynb) | Foundation Models |
-| [07_Introduction to Reinforcement Learning.pdf](slides/07_Introduction%20to%20Reinforcement%20Learning.pdf) | — | Introduction to Reinforcement Learning |
-| [08_Advanced Reinforcement learning and application in robotics and LLM.pdf](slides/08_Advanced%20Reinforcement%20learning%20and%20application%20in%20robotics%20and%20LLM.pdf) | — | Advanced Reinforcement Learning and Applications in Robotics and LLM |
+| [07_1_Introduction to Reinforcement Learning.pdf](slides/07_1_Introduction%20to%20Reinforcement%20Learning.pdf), [07_2_Advanced Reinforcement learning and application in robotics and LLM.pdf](slides/07_2_Advanced%20Reinforcement%20learning%20and%20application%20in%20robotics%20and%20LLM.pdf) | — | Reinforcement Learning |
+| [08_AI + 生命科学.pdf](slides/08_AI%20%2B%20%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6.pdf) | — | AI + Life Sciences |
 | [09_AI + Scientific Computing.pdf](slides/09_AI%20%2B%20Scientific%20Computing.pdf) | — | AI + Scientific Computing |
 
 ## Lecture 03 Supplementary Resources
