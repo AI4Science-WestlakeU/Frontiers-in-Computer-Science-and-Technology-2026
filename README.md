@@ -5,30 +5,33 @@ Course materials for *Frontiers in Computer Science and Technology* (2026).
 ## Repository Structure
 
 ```text
-slides/               Lecture slides (PDF) covering theory, key concepts, and formulas for each class
-notebooks/            Interactive Jupyter Notebooks with runnable code and experiments corresponding to each lecture
+slides/               Lecture slides (PDF) covering theory, key concepts, and formulas
+notebooks/            Interactive Jupyter Notebooks with runnable code and experiments for selected lectures
 daily_reading_skills/ Codex skills for paper discovery, reading, author/institution mapping, and guided study
 ```
 
 ## How to Use
 
-- **slides/**: PDF slide decks for each lecture. Read these to follow the theoretical content taught in class.
-- **notebooks/**: Hands-on notebooks paired with the slides. Each notebook contains code implementations, visualizations, and plain-language Markdown explanations. Open the corresponding notebook after reading the slides to put the concepts into practice. The Lecture 03 notebook additionally includes derivations, a model-relation map, and CPU-friendly runnable examples for major generative models.
+- **slides/**: PDF slide decks for the lectures. Read these to follow the theoretical content taught in class.
+- **notebooks/**: Hands-on notebooks paired with selected slides. Each notebook contains code implementations, visualizations, and plain-language Markdown explanations. Open the corresponding notebook after reading the slides to put the concepts into practice. The Lecture 03 notebook additionally includes derivations, a model-relation map, and CPU-friendly runnable examples for major generative models.
 
 ## Contents
 
 | Slides | Notebook or Code | Topic |
 |---|---|---|
-| [01_Course Introduction.pdf](slides/01_Course%20Introduction.pdf) | — | Course Introduction |
-| [02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf](slides/02_Frontiers%20in%20deep%20learning_1_Maximum%20likelihood%20and%20Information-based%20objectives.pdf) | — | Maximum Likelihood & Information-based Objectives |
-| [02_Frontiers in deep learning_2_Optimization.pdf](slides/02_Frontiers%20in%20deep%20learning_2_Optimization.pdf) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
-| [03_Frontiers in generative modeling.pdf](slides/03_Frontiers%20in%20generative%20modeling.pdf) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
-| [04-Multi-agent AI Scientist and AI Engineers.pdf](slides/04-Multi-agent%20AI%20Scientist%20and%20AI%20Engineers.pdf), [04-量子力学AI辅助自学分析.pdf](slides/04-%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6AI%E8%BE%85%E5%8A%A9%E8%87%AA%E5%AD%A6%E5%88%86%E6%9E%90.pdf), [04-skills.pdf](slides/04-skills.pdf) | [daily_reading_skills](daily_reading_skills) | Multi-agent AI Scientist and AI Engineering |
-| [05_Frontiers in Graph neural networks.pdf](slides/05_Frontiers%20in%20Graph%20neural%20networks.pdf) | [05_graph_neural_networks_tutorial.ipynb](notebooks/05_graph_neural_networks_tutorial.ipynb) | Graph Neural Networks |
-| [06_Frontiers in foundation.pdf](slides/06_Frontiers%20in%20foundation.pdf) | [06_foundation_model.ipynb](notebooks/06_foundation_model.ipynb) | Foundation Models |
-| [07_1_Introduction to Reinforcement Learning.pdf](slides/07_1_Introduction%20to%20Reinforcement%20Learning.pdf), [07_2_Advanced Reinforcement learning and application in robotics and LLM.pdf](slides/07_2_Advanced%20Reinforcement%20learning%20and%20application%20in%20robotics%20and%20LLM.pdf) | — | Reinforcement Learning |
-| [08_AI + 生命科学.pdf](slides/08_AI%20%2B%20%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6.pdf) | — | AI + Life Sciences |
-| [09_AI + Scientific Computing.pdf](slides/09_AI%20%2B%20Scientific%20Computing.pdf) | — | AI + Scientific Computing |
+| [01_Course Introduction.pdf](<slides/01_Course Introduction.pdf>) | — | Course Introduction |
+| [02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf](<slides/02_Frontiers in deep learning_1_Maximum likelihood and Information-based objectives.pdf>) | — | Maximum Likelihood and Information-based Objectives |
+| [02_Frontiers in deep learning_2_Optimization.pdf](<slides/02_Frontiers in deep learning_2_Optimization.pdf>) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
+| [03_Frontiers in generative modeling.pdf](<slides/03_Frontiers in generative modeling.pdf>) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
+| [04-Multi-agent AI Scientist and AI Engineers.pdf](<slides/04-Multi-agent AI Scientist and AI Engineers.pdf>), [04-量子力学AI辅助自学分析.pdf](<slides/04-量子力学AI辅助自学分析.pdf>), [04-skills.pdf](slides/04-skills.pdf) | [daily_reading_skills](daily_reading_skills) | AI Agents for Scientific Research, AI-assisted Self-study, and Reusable Research Skills |
+| [5_Frontiers in Graph neural networks.pdf](<slides/5_Frontiers in Graph neural networks.pdf>) | [05_graph_neural_networks_tutorial.ipynb](notebooks/05_graph_neural_networks_tutorial.ipynb) | Graph Neural Networks |
+| [06_Frontiers in foundation_model_ZhenzhongLan_2025.pdf](<slides/06_Frontiers in foundation_model_ZhenzhongLan_2025.pdf>) | [06_foundation_model.ipynb](notebooks/06_foundation_model.ipynb) | Foundation Models |
+| [09_1_Introduction to Reinforcement Learning.pdf](<slides/09_1_Introduction to Reinforcement Learning.pdf>) | — | Introduction to Reinforcement Learning |
+| [09_2_Reinforcement learning for science.pdf](<slides/09_2_Reinforcement learning for science.pdf>) | — | Reinforcement Learning for Science |
+| [10_Advanced Reinforcement learning and application in robotics and LLM.pdf](<slides/10_Advanced Reinforcement learning and application in robotics and LLM.pdf>) | — | Advanced Reinforcement Learning for Robotics and LLMs |
+| [11_AI + 生命科学.pdf](<slides/11_AI + 生命科学.pdf>) | — | AI + Life Science |
+| [12_AI + Scientific Computing.pdf](<slides/12_AI + Scientific Computing.pdf>) | — | AI + Scientific Computing |
+| [13_Science for AI.pdf](<slides/13_Science for AI.pdf>) | — | Science for AI |
 
 ## Lecture 03 Supplementary Resources
 
