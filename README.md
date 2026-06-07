@@ -24,14 +24,15 @@ daily_reading_skills/ Codex skills for paper discovery, reading, author/institut
 | [02_Frontiers in deep learning_2_Optimization.pdf](<slides/02_Frontiers in deep learning_2_Optimization.pdf>) | [02_optimization_tutorial.ipynb](notebooks/02_optimization_tutorial.ipynb) | Deep Learning Optimization |
 | [03_Frontiers in generative modeling.pdf](<slides/03_Frontiers in generative modeling.pdf>) | [03_generative_modeling_tutorial.ipynb](notebooks/03_generative_modeling_tutorial.ipynb) | Generative Modeling |
 | [04-Multi-agent AI Scientist and AI Engineers.pdf](<slides/04-Multi-agent AI Scientist and AI Engineers.pdf>), [04-量子力学AI辅助自学分析.pdf](<slides/04-量子力学AI辅助自学分析.pdf>), [04-skills.pdf](slides/04-skills.pdf) | [daily_reading_skills](daily_reading_skills) | AI Agents for Scientific Research, AI-assisted Self-study, and Reusable Research Skills |
-| [5_Frontiers in Graph neural networks.pdf](<slides/5_Frontiers in Graph neural networks.pdf>) | [05_graph_neural_networks_tutorial.ipynb](notebooks/05_graph_neural_networks_tutorial.ipynb) | Graph Neural Networks |
+| [05_Frontiers in Graph neural networks.pdf](<slides/05_Frontiers in Graph neural networks.pdf>) | [05_graph_neural_networks_tutorial.ipynb](notebooks/05_graph_neural_networks_tutorial.ipynb) | Graph Neural Networks |
 | [06_Frontiers in foundation_model_ZhenzhongLan_2025.pdf](<slides/06_Frontiers in foundation_model_ZhenzhongLan_2025.pdf>) | [06_foundation_model.ipynb](notebooks/06_foundation_model.ipynb) | Foundation Models |
 | [09_1_Introduction to Reinforcement Learning.pdf](<slides/09_1_Introduction to Reinforcement Learning.pdf>) | — | Introduction to Reinforcement Learning |
 | [09_2_Reinforcement learning for science.pdf](<slides/09_2_Reinforcement learning for science.pdf>) | — | Reinforcement Learning for Science |
 | [10_Advanced Reinforcement learning and application in robotics and LLM.pdf](<slides/10_Advanced Reinforcement learning and application in robotics and LLM.pdf>) | — | Advanced Reinforcement Learning for Robotics and LLMs |
 | [11_AI + 生命科学.pdf](<slides/11_AI + 生命科学.pdf>) | — | AI + Life Science |
 | [12_AI + Scientific Computing.pdf](<slides/12_AI + Scientific Computing.pdf>) | — | AI + Scientific Computing |
-| [13_Science for AI.pdf](<slides/13_Science for AI.pdf>) | — | Science for AI |
+| [13_Multi-Objective Machine Learning.pdf](<slides/13_Multi-Objective Machine Learning.pdf>) | — | Multi-Objective Machine Learning |
+| [14_Science for AI.pdf](<slides/14_Science for AI.pdf>) | — | Science for AI |
 
 ## Lecture 03 Supplementary Resources
 
